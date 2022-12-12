@@ -1,0 +1,8 @@
+id,nombre,paterno
+1,arlen,zegales
+2,demi,lovato
+3,ariel,plag
+4,dendu,Chavez
+5,Denzel,olivares
+6,Orieta,Salinas
+7,Pedro,Takunai
